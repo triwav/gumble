@@ -1,8 +1,8 @@
 package gumble
 
 import (
+	"github.com/dchote/gumble/gumble/MumbleProto"
 	"github.com/golang/protobuf/proto"
-	"github.com/layeh/gumble/gumble/MumbleProto"
 )
 
 // Channel represents a channel in the server's channel tree.
