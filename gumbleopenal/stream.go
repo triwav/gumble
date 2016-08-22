@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/layeh/gumble/gumble"
+	"github.com/dchote/gumble/gumble"
 	"github.com/timshannon/go-openal/openal"
 )
 
