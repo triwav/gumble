@@ -1,14 +1,13 @@
-package gumbleutil
+package gumbleutil // import "layeh.com/gumble/gumbleutil"
 
 import (
 	"crypto/tls"
 	"flag"
 	"fmt"
+	"github.com/dchote/gumble/gumble"
 	"net"
 	"os"
 	"strconv"
-
-	"github.com/dchote/gumble/gumble"
 )
 
 // Main aids in the creation of a basic command line gumble bot. It accepts the
