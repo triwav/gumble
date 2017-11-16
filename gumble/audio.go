@@ -15,7 +15,7 @@ const (
 
 	// AudioDefaultIntervalMS is the default interval in milliseconds that audio
 	// packets are sent at.
-	AudioDefaultIntervalMS = 10
+	AudioDefaultIntervalMS = 60
 
 	// AudioDefaultInterval is the default interval that audio packets are sent
 	// at.
