@@ -1,4 +1,4 @@
-package opus // import "github.com/dchote/gumble/opus"
+package opus // import "layeh.com/gumble/opus"
 
 import (
 	"github.com/dchote/gumble/gumble"

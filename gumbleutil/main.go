@@ -1,4 +1,4 @@
-package gumbleutil // import "github.com/dchote/gumble/gumbleutil"
+package gumbleutil // import "layeh.com/gumble/gumbleutil"
 
 import (
 	"crypto/tls"

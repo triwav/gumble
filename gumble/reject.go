@@ -1,4 +1,4 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "layeh.com/gumble/gumble"
 
 import (
 	"strconv"
