@@ -13,9 +13,7 @@ type Users map[uint32]*User
 func (u Users) create(session uint32) *User {
 	user := &User{
 		Session: session,
-		buffer:  newJitterBuffer(),
 	}
-	user.buffer.user = user
 	u[session] = user
 	return user
 }
