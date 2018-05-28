@@ -1,7 +1,7 @@
-package gumbleutil // import "github.com/dchote/gumble/gumbleutil"
+package gumbleutil // import "github.com/triwav/gumble/gumbleutil"
 
 import (
-	"github.com/dchote/gumble/gumble"
+	"github.com/triwav/gumble/gumble"
 )
 
 // UserGroups fetches the group names the given user belongs to in the given

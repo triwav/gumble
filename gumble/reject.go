@@ -1,9 +1,9 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/triwav/gumble/gumble"
 
 import (
 	"strconv"
 
-	"github.com/dchote/gumble/gumble/MumbleProto"
+	"github.com/triwav/gumble/gumble/MumbleProto"
 )
 
 // RejectType describes why a client connection was rejected by the server.

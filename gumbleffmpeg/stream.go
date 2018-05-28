@@ -1,4 +1,4 @@
-package gumbleffmpeg // import "github.com/dchote/gumble/gumbleffmpeg"
+package gumbleffmpeg // import "github.com/triwav/gumble/gumbleffmpeg"
 
 import (
 	"encoding/binary"
@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/dchote/gumble/gumble"
+	"github.com/triwav/gumble/gumble"
 )
 
 // State represents the state of a Stream.

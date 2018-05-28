@@ -1,4 +1,4 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/triwav/gumble/gumble"
 
 import (
 	"sync"

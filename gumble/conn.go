@@ -1,4 +1,4 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/triwav/gumble/gumble"
 
 import (
 	"encoding/binary"
@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/dchote/gumble/gumble/MumbleProto"
-	"github.com/dchote/gumble/gumble/varint"
+	"github.com/triwav/gumble/gumble/MumbleProto"
+	"github.com/triwav/gumble/gumble/varint"
 	"github.com/golang/protobuf/proto"
 )
 

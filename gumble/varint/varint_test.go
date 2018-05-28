@@ -1,4 +1,4 @@
-package varint // import "github.com/dchote/gumble/gumble/varint"
+package varint // import "github.com/triwav/gumble/gumble/varint"
 
 import "testing"
 

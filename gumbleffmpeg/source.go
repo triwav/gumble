@@ -1,4 +1,4 @@
-package gumbleffmpeg // import "github.com/dchote/gumble/gumbleffmpeg"
+package gumbleffmpeg // import "github.com/triwav/gumble/gumbleffmpeg"
 
 import (
 	"io"

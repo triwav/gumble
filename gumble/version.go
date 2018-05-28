@@ -1,4 +1,4 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/triwav/gumble/gumble"
 
 // Version represents a Mumble client or server version.
 type Version struct {

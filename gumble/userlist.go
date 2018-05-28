@@ -1,9 +1,9 @@
-package gumble // import "github.com/dchote/gumble/gumble"
+package gumble // import "github.com/triwav/gumble/gumble"
 
 import (
 	"time"
 
-	"github.com/dchote/gumble/gumble/MumbleProto"
+	"github.com/triwav/gumble/gumble/MumbleProto"
 )
 
 // RegisteredUser represents a registered user on the server.
