@@ -1,7 +1,7 @@
 package opus // import "github.com/triwav/gumble/opus"
 
 import (
-	"github.com/dchote/gopus"
+	"github.com/triwav/gopus"
 	"github.com/triwav/gumble/gumble"
 )
 

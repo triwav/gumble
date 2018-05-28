@@ -5,7 +5,7 @@ import (
 	"errors"
 	"time"
 
-	"github.com/dchote/go-openal/openal"
+	"github.com/triwav/go-openal/openal"
 	"github.com/triwav/gumble/gumble"
 )
 
